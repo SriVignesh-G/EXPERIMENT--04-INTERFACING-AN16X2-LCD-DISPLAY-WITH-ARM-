@@ -206,9 +206,9 @@ int main(void)
 void lcd_display()
 {
 	Lcd_cursor(&lcd,0,1);
-	Lcd_string(&lcd,"SANJAY ASHWIN\n");
+	Lcd_string(&lcd,"SRI VIGNESH G\n");
 	Lcd_cursor(&lcd,1,1);
-	Lcd_string(&lcd,"212223040181\n");
+	Lcd_string(&lcd,"212223040204\n");
 
 }
 
@@ -300,9 +300,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
  ![437669751-b87abd4d-5f02-4677-b6ab-9c3b6c8f29a7](https://github.com/user-attachments/assets/99185478-fe10-46dd-a63e-30b99e0cc1c9)
- ![WhatsApp Image 2025-05-28 at 10 31 45_830db0b3](https://github.com/user-attachments/assets/69261720-2f08-4808-bbc3-90c1af0d6bdb)
+![WhatsApp Image 2025-06-03 at 23 46 09_0edc67bb](https://github.com/user-attachments/assets/e6c7e407-024b-40c6-8c5f-bb9f18b8aa62)
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+![WhatsApp Image 2025-06-03 at 23 46 09_a86e004a](https://github.com/user-attachments/assets/21c17fa8-995a-45d3-a992-a0c8cb32ebac)
 
  
 ## Result :
